@@ -39,8 +39,11 @@ This project is built with a focus on **simplicity, scalability, and corporate**
  ┃ ┗ crypto.py          # Cryptography utilities
  ┣ tests
  ┃ ┗ unit_tests.py      # Basic unit tests
- ┣ README.md            # Documentation
+ ┣ .gitgnore            # Files and directories excluded from version control.  
+ ┣ CODE_OF_CONDUCT.md   # Guidelines for maintaining a respectful and professional community.  
+ ┣ CONTRIBUTING.md      # Instructions and standards for contributing to the project.  
  ┣ LICENSE              # Open-source license
+ ┣ README.md            # Documentation
  ┗ requirements.txt     # Dependencies
 ```
 
