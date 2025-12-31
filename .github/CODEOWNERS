@@ -1,0 +1,8 @@
+# Global ownership
+*       @secwexen
+
+# Source code ownership
+/src/   @secwexen
+
+# Tests
+/tests/ @secwexen
