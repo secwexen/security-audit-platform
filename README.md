@@ -113,4 +113,5 @@ The authors assume no liability for misuse.
 
 ## License
 
-Released under the **Apache-2.0 License** for open collaboration and corporate adoption.
+This project is licensed under the **Apache-2.0 License**.  
+See the [LICENSE](LICENSE) file for full details.
